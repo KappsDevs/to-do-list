@@ -4,7 +4,7 @@ Este é um projeto simples de lista de tarefas que permite adicionar, marcar com
 
 ## Demonstração
 
-Você pode ver a aplicação funcionando https://https://kappsdevs.github.io/to-do-list/.
+Você pode ver a aplicação funcionando https://kappsdevs.github.io/to-do-list/.
 
 ## Funcionalidades
 
